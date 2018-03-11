@@ -22,4 +22,4 @@ func (payload * Path) new() {
 	 }
 ```
 _aquele esta os string paths, pode notar que eles são tipo um web-site, o infect tá em cada um._
-_quase não fiz muito esforço, por que o que tinha nos string já tava as funções._
+_quase não fiz muito esforço, por que nos string já tava as funções._
