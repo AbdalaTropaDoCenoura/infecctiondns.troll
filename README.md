@@ -20,3 +20,7 @@ _ele é feito com strings paths de hexadecimal 16 bytes, payload está embutida.
 ```
 _aquele esta os string paths, pode notar que eles são tipo um web-site, o infect tá em cada um._
 _quase não fiz muito esforço, por que nos string já tava as funções._
+
+### AVISOS
+
+*Esses strings paths foi criado por mim, não tente copiar o script que eu tenho o .log dos infecct :)*
